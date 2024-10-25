@@ -1,0 +1,141 @@
+{
+    "id": "momenta",
+    "sn": "momentahmi2597424850940743797882",
+    "cmd": "mff_hmi_info",
+    "data": {
+        "sd_route": {
+            "source": 1
+        },
+        "lka_switch": {
+            "ldw_switch": "CLOSE",
+            "warning_type": "OFF",
+            "sensitive_level": "2",
+            "ldp_switch": "CLOSE",
+            "elk_switch": "CLOSE"
+        },
+        "vrp": {
+            "switch": "0"
+        },
+        "sentry_mode": {
+            "switch": 0,
+            "status": 0
+        },
+        "rcw": {
+            "switch": 0,
+            "state": 0
+        },
+        "scb": {
+            "switch": 0,
+            "state": 0
+        },
+        "switch": {
+            "etc_switch": 1,
+            "intelligence_adaption_limit": {
+                "switch": 0
+            }
+        },
+        "widget": {
+            "intelligence_adaption_limit": {
+                "status": 0
+            },
+            "speed_limit_change_truck_aside": {
+                "state": 0
+            },
+            "construction_speed_limit_warning": {
+                "state": 0
+            },
+            "ready_to_go": {
+                "state": 0
+            },
+            "traffic_light_info": {
+                "warning_type": 0
+            }
+        },
+        "lpnp": {
+            "function_notify": "no_display",
+            "mapping_state": "no_display",
+            "slient_mapping_render": false,
+            "silent_mapping_btn_sts": true
+        },
+        "cdw_setting_response": {
+            "cdw_switch": 0,
+            "cdw_sensitive_level": 2
+        },
+        "cdw_status_info": {
+            "cdw_state": 0,
+            "cdw_level": 0
+        },
+        "fcw_setting_response": {
+            "fcw_switch": 0,
+            "fcw_sensitive_level": 2
+        },
+        "fcw_status_info": {
+            "fcw_state": 0
+        },
+        "awb_status_info": {
+            "awb_state": 0
+        },
+        "aeb_setting_response": {
+            "aeb_switch": 0
+        },
+        "aeb_status_info": {
+            "aeb_state": 0,
+            "aebp_state": 0,
+            "eba_state": 0,
+            "aebeh_state": 0,
+            "aeblim_state": 0
+        },
+        "daa_setting_response": {
+            "daa_switch": 0
+        },
+        "daa_status_info": {
+            "daa_warning_state": 0,
+            "daa_warning_type": 0,
+            "daa_warning_direction": 0,
+            "daa_braking_state": 0,
+            "daa_braking_type": 0,
+            "daa_braking_direction": 0
+        },
+        "msp_setting_response": {
+            "msp_switch": 0
+        },
+        "msp_status_info": {
+            "msp_warning_state": 0,
+            "msp_warning_type": 0,
+            "msp_warning_direction": 0,
+            "msp_braking_state": 0,
+            "msp_braking_type": 0,
+            "msp_braking_direction": 0
+        },
+        "apa": {
+            "notification": {
+                "recommend_mode": 3,
+                "can_choose_park_out_direction": false
+            }
+        },
+        "dms_distraction": {
+            "notification": {
+                "level": 0
+            },
+            "switch": 0,
+            "state": 0
+        },
+        "dms_drowsiness": {
+            "notification": {
+                "level": 0
+            },
+            "switch": 0,
+            "state": 0
+        },
+        "bsd": {
+            "switch": 0,
+            "level": 0,
+            "direction": 0
+        },
+        "dow": {
+            "switch": 0,
+            "level": 0,
+            "direction": 0
+        }
+    }
+}

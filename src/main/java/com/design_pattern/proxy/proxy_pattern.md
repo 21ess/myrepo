@@ -1,0 +1,8 @@
+## 代理模式详解
+
+[简单应用](https://juejin.cn/post/7264920384888471610?searchId=20241025161809BA7E8E2BF88EAB790502)
+[原理解析](https://juejin.cn/post/7264920384888471610?searchId=20241025161809BA7E8E2BF88EAB790502)
+
+### Summary
+
+
